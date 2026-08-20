@@ -3,7 +3,7 @@
 Практическое задание к уроку «Cursor для работы с документами (без кода)»,
 выполненное в **Codex**, а не в Cursor.
 
-Приватный репозиторий: <https://github.com/abdublinn/obuchenie-2030-ai-docs-kb>
+Публичный репозиторий: <https://github.com/abdublinn/obuchenie-2030-ai-docs-kb>
 
 Проект показывает рабочий цикл обращения с документами:
 
